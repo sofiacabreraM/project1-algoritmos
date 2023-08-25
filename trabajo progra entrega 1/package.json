@@ -1,0 +1,26 @@
+{
+  "name": "trabajo-progra-entrega-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.1",
+    "sserve": "^0.2.5"
+  },
+  "dependencies": {
+    "event-queue": "^0.2.0",
+    "font-awesome": "^4.7.0",
+    "moment": "^2.29.4",
+    "mu": "^0.5.2",
+    "node-static": "^0.5.9",
+    "optimist": "^0.2.8",
+    "q": "^0.7.2",
+    "wordwrap": "^0.0.3"
+  },
+  "description": ""
+}
